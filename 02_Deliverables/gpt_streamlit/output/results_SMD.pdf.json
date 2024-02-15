@@ -1,0 +1,10 @@
+{"0":"Name","1":"The name of the capacitor is VZH680M2ATR-1313S."}
+{"0":"Product Type","1":"The product type is SMD Aluminum Electrolytic Capacitors VZH."}
+{"0":"Dimensions","1":"The dimensions provided for the KYOCERA capacitors are given as \"1608(JIS) \/ 0603(EIA) L ~ w\". This indicates that the dimensions are given in millimeters (mm) and the length (L) and width (w) are variable depending on the specific capacitor model.\n\nFor the AWS capacitors, the dimensions are given as \"¢D x L(mm)\", which represents the diameter (¢D) and length (L) of the capacitor. The dimensions vary depending on the specific capacitor model.\n\nUnfortunately, the specific dimensions for each capacitor model are not provided in the given context."}
+{"0":"Orientation","1":"The provided information does not specify the orientation of the component."}
+{"0":"Current Rating","1":"The current rating of the SMD Aluminum Electrolytic Capacitors in the VZH series is not provided in the given context."}
+{"0":"Voltage","1":"The voltage ratings for the KYOCERA capacitors mentioned in the context are 25Vdc and 6.3Vdc."}
+{"0":"Frequency","1":"The frequency mentioned in the given context is 100k Hz."}
+{"0":"Impedance","1":"The impedance of a component refers to the opposition to the flow of alternating current (AC) in the component. It is represented by the symbol Z and is measured in ohms. In the context of the given information, the impedance values for different voltage ratings are provided for the SMD Aluminum Electrolytic Capacitors VZH series. The impedance values depend on the capacitance and rated voltage of the capacitor."}
+{"0":"Capacitance","1":"The capacitance of the SMD Aluminum Electrolytic Capacitors VZH series varies depending on the specific model. The range of capacitance options available for this series includes: 4.7uF, 10uF, 22uF, 33uF, 47uF, 100uF, 150uF, 220uF, 330uF, 470uF, 680uF, and 1000uF."}
+{"0":"Temperature","1":"The temperature range for the KYOCERA capacitors is -55°C to +85°C. The temperature range for the VZH series capacitors is -55°C to +105°C."}
